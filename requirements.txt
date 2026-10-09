@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+ta
+yfinance
